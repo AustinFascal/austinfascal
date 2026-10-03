@@ -48,19 +48,40 @@ Nosè combines AI-assisted scam signal detection with a network of **Trusted Gua
 
 ---
 
-## 🏥 Digital Health
+### 🛡️ AEGIS — Automated Enterprise Guardian for Infrastructure Systems
 
-I also work on digital healthcare solutions, developing systems that connect:
+A security-focused infrastructure monitoring and protection system designed to help organizations identify and respond to suspicious activity across their infrastructure.
 
-* 📱 Mobile applications
-* 🧠 AI-assisted experiences
-* 🔐 Privacy & security
-* 🩺 Health information
-* ⚙️ Backend infrastructure
+AEGIS focuses on areas such as:
 
-My approach is to build healthcare technology with both **usability and data protection** in mind.
+* 🔍 Infrastructure monitoring
+* 🛡️ Security event detection
+* 🚨 Suspicious activity & threat indicators
+* 🐧 Linux server security
+* ⚙️ Automated security workflows
+* 📊 Security visibility and reporting
+
+> **Monitor. Detect. Respond. Protect.**
 
 ---
+
+### 🏥 Hyu!
+
+**Digital healthcare technology for a more connected health experience.**
+
+Hyu! is a digital healthcare platform that brings together health information, AI-assisted experiences, and digital health services in one application.
+
+My work on Hyu! involves:
+
+* 📱 Mobile application development
+* 🤖 AI-powered health experiences
+* 🔐 Privacy and data protection
+* ⚙️ Backend & API development
+* ☁️ Infrastructure and DevOps
+* 🩺 Health information systems
+
+The project has given me the opportunity to work across the full technology stack, from **mobile applications and backend systems to infrastructure, security, and AI integration**.
+
 
 ## 🛠️ Technologies & Tools
 
