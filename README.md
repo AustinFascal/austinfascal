@@ -1,9 +1,9 @@
 # Hi, I'm Austin 👋
 
-💻 Full-Stack Developer & DevOps Practitioner
-🛡️ Cybersecurity & Digital Safety Enthusiast
-🌱 Founder of Nosè — Civic EdTech & Digital Innovation
-🇮🇩 Based in Indonesia
+💻 **Full-Stack Developer & DevOps Practitioner**
+🛡️ **Cybersecurity & Digital Safety Enthusiast**
+🌱 **Founder of Nosè — Civic EdTech & Digital Innovation**
+🇮🇩 **Indonesia**
 
 > Building technology that is not only functional, but useful, secure, and meaningful for people.
 
@@ -11,38 +11,25 @@
 
 ## 👨‍💻 About Me
 
-I'm a software developer and digital innovation practitioner with **8+ years of experience** building digital products, backend systems, mobile applications, and infrastructure.
+I'm a software developer and digital innovation practitioner with **8+ years of experience** working across software development, infrastructure, and digital products.
 
-My work sits at the intersection of **software engineering, cybersecurity, digital health, and civic technology**.
+My professional journey has taken me from building applications and backend systems to working with infrastructure, security, and emerging technologies.
 
-I'm particularly interested in using technology to solve real-world problems — from making healthcare more accessible to helping people stay safer from online scams.
-
-### What I Do
-
-* 🔧 Full-Stack Web & Mobile Development
-* ☁️ DevOps & Infrastructure
-* 🛡️ Cybersecurity & Server Security
-* 🤖 AI Integration & Digital Products
-* 📱 Flutter & Laravel Development
-* 🌐 REST APIs & Backend Systems
-* 🔐 Privacy & Data Protection
-* 🌱 Civic EdTech & Social Innovation
+I enjoy turning real-world problems into practical technology and working across different layers of a product — from **idea and architecture to implementation and deployment**.
 
 ---
 
-## 🚀 What I'm Building
+## 🚀 Selected Projects
 
 ### 🐻 Nosè — Node Safe
 
 **Preventing scams with the power of a cybersafe community.**
 
-Nosè is a Civic EdTech and digital innovation initiative focused on helping people respond safely when facing online scams.
-
-The idea is simple:
+Nosè is a Civic EdTech initiative designed to help people respond more safely when facing online scams.
 
 **PAUSE → VERIFY → DECIDE**
 
-Nosè combines AI-assisted scam signal detection with a network of **Trusted Guardians** who help people verify suspicious situations before they make a potentially harmful decision.
+The platform combines AI-assisted scam signal detection with a network of **Trusted Guardians**, helping users pause and verify suspicious situations before making potentially harmful decisions.
 
 > AI handles the signals. Humans handle the judgment.
 
@@ -50,16 +37,16 @@ Nosè combines AI-assisted scam signal detection with a network of **Trusted Gua
 
 ### 🛡️ AEGIS — Automated Enterprise Guardian for Infrastructure Systems
 
-A security-focused infrastructure monitoring and protection system designed to help organizations identify and respond to suspicious activity across their infrastructure.
+A security-oriented system for monitoring infrastructure and identifying potentially suspicious activity.
 
-AEGIS focuses on areas such as:
+AEGIS explores automated approaches to:
 
-* 🔍 Infrastructure monitoring
-* 🛡️ Security event detection
-* 🚨 Suspicious activity & threat indicators
-* 🐧 Linux server security
-* ⚙️ Automated security workflows
-* 📊 Security visibility and reporting
+* Infrastructure monitoring
+* Security event detection
+* Threat indicators
+* Linux server protection
+* Security workflows
+* Operational visibility
 
 > **Monitor. Detect. Respond. Protect.**
 
@@ -67,88 +54,94 @@ AEGIS focuses on areas such as:
 
 ### 🏥 Hyu!
 
-**Digital healthcare technology for a more connected health experience.**
+**A digital healthcare platform built to make health services more accessible through technology.**
 
-Hyu! is a digital healthcare platform that brings together health information, AI-assisted experiences, and digital health services in one application.
+My work on Hyu! spans multiple parts of the product, including:
 
-My work on Hyu! involves:
+* Mobile application development
+* Backend services and APIs
+* AI-assisted features
+* Health information systems
+* Infrastructure and deployment
+* Data protection
 
-* 📱 Mobile application development
-* 🤖 AI-powered health experiences
-* 🔐 Privacy and data protection
-* ⚙️ Backend & API development
-* ☁️ Infrastructure and DevOps
-* 🩺 Health information systems
-
-The project has given me the opportunity to work across the full technology stack, from **mobile applications and backend systems to infrastructure, security, and AI integration**.
-
+---
 
 ## 🛠️ Technologies & Tools
 
-### Languages
+### 💻 Languages
 
-`PHP` `Dart` `JavaScript` `SQL` `C#`
+<p>
+  <img src="https://skillicons.dev/icons?i=php,dart,js,cs" />
+</p>
 
-### Frameworks & Platforms
+### ⚙️ Frameworks & Development
 
-`Laravel` `Flutter` `Node.js` `.NET`
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,flutter,nodejs,dotnet" />
+</p>
 
-### Infrastructure & DevOps
+### ☁️ Infrastructure & DevOps
 
-`Linux` `Docker` `VPS` `Git` `CI/CD` `Server Security`
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,aws" />
+</p>
 
-### Data & Backend
+### 🗄️ Data & Backend
 
-`MySQL` `REST API` `RAG` `Typesense`
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
-### Areas of Interest
-
-`Cybersecurity` `AI` `Digital Health` `Civic Tech` `EdTech` `Privacy` `Digital Safety`
+`REST API` `RAG` `Typesense`
 
 ---
 
 ## 🌱 Currently Exploring
 
-* 🤖 AI-powered applications
-* 🛡️ Cybersecurity & cyber resilience
-* 🌐 Civic technology
-* 🧠 Responsible AI
-* 🔐 Privacy-by-design
-* ☁️ Cloud & infrastructure
-* 📚 Open-source development
+* 🤖 Generative AI & intelligent applications
+* 🔐 Security engineering
+* ☁️ Cloud architecture
+* 🧩 Distributed systems
+* 📖 Open-source software
+* 🌍 Technology for social impact
 
 ---
 
-## 🤝 Let's Collaborate
+## 🤝 Let's Connect
 
-I'm interested in collaborating on projects involving:
+I'm always interested in meeting people who are building interesting things, solving meaningful problems, or exploring new ideas in technology.
 
-* 🌍 Social impact technology
-* 🛡️ Cybersecurity & digital safety
-* 🤖 AI-powered applications
-* 🏥 Digital health
-* 🎓 Civic EdTech
-* 🚀 Digital innovation
-* 🔓 Open-source projects
-
-If you're working on something meaningful, feel free to reach out.
+If you'd like to collaborate, exchange ideas, or simply talk tech, feel free to reach out.
 
 ---
 
-## 📫 Connect With Me
+## 📫 Find Me Online
 
-* 🌐 Portfolio: [austinfascal.github.io/portfolio](https://austinfascal.github.io/portfolio)
-* 💼 LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/)
-* 🐙 GitHub: [@austinfascal](https://github.com/)
+<p>
+  <a href="https://austinfascal.github.io/portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/austinfascal">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<!-- Replace with your preferred GitHub stats widgets -->
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=austinfascal&show_icons=true&theme=transparent&hide_border=true" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=austinfascal\&show_icons=true\&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=austinfascal\&layout=compact\&theme=transparent)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=austinfascal&layout=compact&theme=transparent&hide_border=true" />
+</p>
 
 ---
+
+### 💡 Build with purpose.
